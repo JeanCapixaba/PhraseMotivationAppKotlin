@@ -13,6 +13,6 @@ R:Basically it is an app aimed at studying, generating phrases through icons tha
 Activity constructs, Activity life cycle, Constants, SecurityPreferences, user information get and set (all for didactic purposes).
   <br>
   <br>
-  <img src="https://github.com/JeanCapixaba/PhraseMotivationAppKotlin/assets/110734564/fd3ca86c-741d-45f9-a147-6db843599d3e" width="700px" />
-  <img src="https://github.com/JeanCapixaba/PhraseMotivationAppKotlin/assets/110734564/1c4dbd4b-1538-45ea-b119-807a37fd6289" width="700px" />
+  <img src="https://github.com/JeanCapixaba/PhraseMotivationAppKotlin/assets/110734564/fd3ca86c-741d-45f9-a147-6db843599d3e">
+  <img src="https://github.com/JeanCapixaba/PhraseMotivationAppKotlin/assets/110734564/1c4dbd4b-1538-45ea-b119-807a37fd6289">
 </div>
