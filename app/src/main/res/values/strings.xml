@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="user_view_whatName">Qual é o seu nome?</string>
+    <string name="user_View_howStart">Vamos começar?</string>
+    <string name="user_view_save">SALVAR</string>
+    <string name="nova_frase_gerada">Nova frase gerada</string>
+    <string name="main_new_phrase">Nova frase</string>
+</resources>
